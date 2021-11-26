@@ -19,7 +19,7 @@ from misc import metric
 
 
 cudnn.benchmark = True
-cudnn.deterministic = True
+cudnn.deterministic = True 
 
 
 def main():

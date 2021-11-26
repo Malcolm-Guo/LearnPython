@@ -122,7 +122,7 @@ def main():
             end = time.time()
             pred = model(inputs)
             if cfg.to_disparity:
-                pred_d = utils.disp2depth(pred, img_w)
+                pred_d = utils.disp2depth(pred, img_w)#视差图转换深度图原理b*f/d
                 pred_disp = pred
             else:
                 raise NotImplementedError
