@@ -9,7 +9,7 @@ This is an implementation for our paper "3D LiDAR and Stereo Fusion using Stereo
 Overview 
 --- 
 <p align="left">
-<img src="index/overview.png" width="600"><img src="index/ccvnorm.png" width="450">
+<img src="index/overview.png" width="450"><img src="index/ccvnorm.png" width="300">
 </p>
 
 Prerequisites
