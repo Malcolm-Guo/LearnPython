@@ -14,6 +14,7 @@ Overview
 
 Prerequisites
 ---
+* Python 3.6
 * PyTorch
 * tqdm
 * tensorboardX
